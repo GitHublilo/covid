@@ -1,0 +1,2 @@
+# covid
+variantes_covid
